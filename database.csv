@@ -1,0 +1,9 @@
+USER;ADMIN;admin@app.com;admin;admin;adminem jestem;wika;wika
+USER;REGULAR;wika;wika;123;Nowy użytkownik.;admin;admin
+USER;REGULAR;a;a;a;Nowy użytkownik.;;
+POST;c01c0a02-4cf7-4a3c-8056-a90d83f21638;a;1766134590706;czesc
+POST;30d86b30-040d-4cb0-9e1d-a5fd47e76032;wika;1766000343999;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;admin
+POST;fd87073c-83a1-4c18-8925-19622e3e6a6c;admin;1766000266222;wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww;a
+POST;7e350943-dd98-4e4b-9e0c-6fa6bdfedc89;admin;1766000257778;wadres;wika;admin
+COMMENT;518f4a32-c6b7-44ed-adae-8d9411c17e9d;fd87073c-83a1-4c18-8925-19622e3e6a6c;admin;1766000275978;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+COMMENT;ab70f64d-d39f-495e-a6bc-92b801ba2925;fd87073c-83a1-4c18-8925-19622e3e6a6c;wika;1766000352387;aw aaaaaaaaaaaaaaa
